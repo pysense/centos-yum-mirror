@@ -1,0 +1,9 @@
+*/
+6
+6.*/os/*/Packages/*
+6.*/os/*/repodata/*
+6.*/os/*/RPM-GPG-KEY*
+6.*/extras/**
+6.*/updates/**
+6.*/centosplus/**
+RPM-GPG-KEY*
